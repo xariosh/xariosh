@@ -26,7 +26,7 @@
 
 <td width="40%" align="center">
 
-<img src="assests/profile_pic.jpg" width="400"/>
+<img src="assests/code.jpg" width="400"/>
 
 </td>
 
