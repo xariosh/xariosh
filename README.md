@@ -8,7 +8,7 @@
 
 <p align="center">
    <a href=""><img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/-Proton_Mail-000000?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
