@@ -35,7 +35,7 @@
 ```csharp
 Profile ver. 1.0
 ------------------------------------------------------------------------
-Name:       Paritosh
+Name:       Paritosh Dahal
 Role:       Student · Developer . Security
 Interests:  Software · Linux · Assembly
 
