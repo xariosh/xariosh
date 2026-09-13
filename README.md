@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <sub>Student · Developer</sub>
+  <sub>Student · Developer . Security</sub>
 </p>
 
 <p align="center">
@@ -35,8 +35,18 @@
 ```csharp
 Profile ver. 1.0
 ------------------------------------------------------------------------
-Name: Paritosh
-OS: Ryoku Linux
+Name:       Paritosh
+Role:       Student · Developer . Security
+Interests:  Software · Linux · Assembly
+
+Currently:  Learning, building, and experimenting with new ideas.
+
+GitHub:     @xariosh
+Status:     Probably working on something right now.
+
+------------------------------------------------------------------------
+Enjoyed something I've built?
+Consider leaving a ⭐ on the repository.
 ```
 
 </td>
