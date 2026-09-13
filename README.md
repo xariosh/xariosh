@@ -71,5 +71,5 @@ Consider leaving a ⭐ on the repository.
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=60&lines=Thankyou+For+Visiting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=60&lines=Thankyou+For+Visiting+<3" alt="Typing SVG" />
 </div>
