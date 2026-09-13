@@ -66,8 +66,8 @@ Consider leaving a ⭐ on the repository.
 </div>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=xariosh&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xariosh&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=xariosh&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3&v=100" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xariosh&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&v=100" height="165"/>
 </p>
 
 <div align="center">
