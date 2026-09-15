@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Hello%20Welcome!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;I+am+Paritosh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Hello%20Welcome!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" alt="Typing SVG" />
 </div>
 
 <p align="center">
