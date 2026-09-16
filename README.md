@@ -33,20 +33,22 @@
 <td width="60%" valign="top">
 
 ```csharp
-Profile ver. 1.0
-------------------------------------------------------------------------
-Name:       Paritosh Dahal
-Role:       Student · Developer . Security
-Interests:  Software · Linux · Assembly
 
-Currently:  Learning, building, and experimenting with new ideas.
-
-GitHub:     @xariosh
-Status:     Probably working on something right now.
+Profile ver. 2.0
 
 ------------------------------------------------------------------------
+
+Name     : Paritosh Dahal
+Role     : Student · Developer . Security
+Interests: Software · Linux · Assembly
+Discord  : xariosh
+Status   : Probably working on something right now.
+
+------------------------------------------------------------------------
+
 Enjoyed something I've built?
 Consider leaving a ⭐ on the repository.
+
 ```
 
 </td>
