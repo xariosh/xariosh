@@ -37,13 +37,10 @@
 Profile ver. 2.0
 
 ------------------------------------------------------------------------
-
-Name     : Paritosh Dahal
 Role     : Student · Developer . Security
 Interests: Software · Linux · Assembly
 Discord  : xariosh
 Status   : Probably working on something right now.
-
 ------------------------------------------------------------------------
 
 Enjoyed something I've built?
